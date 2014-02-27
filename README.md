@@ -1,4 +1,4 @@
 tic-tactical-toe
 ================
 
-A new way of playing tic-tac-tow
+A new way of playing tic-tac-toe
